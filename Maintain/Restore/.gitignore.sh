@@ -14,7 +14,7 @@ for Organization in "${Organization[@]}"; do
 
 		"$Current"/../Fn/Save/Dependency.sh
 
-		\git fetch Parent --depth 1 --no-tags
+		\git fetch Parent --no-tags
 
 		\find . -type d \( -iname node_modules -o -iname \.git \) -prune -false -o -iname .gitignore -type f -execdir bash -c "$Current"/../Fn/Restore/.gitignore.sh \;
 

@@ -33,7 +33,7 @@ for Organization in "${Organization[@]}"; do
 				if [[ "$Parent" != "null/null" ]]; then
 					Parent=$(\echo "$Parent" | \sed 's/\/$//')
 
-					\git fetch Parent --depth 1 --no-tags
+					\git fetch Parent --no-tags
 
 					# shellcheck disable=SC2154
 					\git reset --hard Parent/"$BranchParent"

@@ -13,7 +13,7 @@ for Organization in "${Organization[@]}"; do
 			( # shellcheck disable=SC2154
 				\cd "$Folder" || \exit
 
-				\git clone --filter=tree:0 --depth=1 --recurse-submodules --shallow-submodules "ssh://git@github.com/${SubDependency}.git" "$SubDependency"
+				\git clone --recurse-submodules --shallow-submodules "ssh://git@github.com/${SubDependency}.git" "$SubDependency"
 
 				\cd - || \exit
 			) &

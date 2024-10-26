@@ -12,7 +12,7 @@ for Organization in "${Organization[@]}"; do
 		# shellcheck disable=SC2154
 		\cd "$Folder"/"${SubDependency/"${Organization}/"/}" || \exit
 
-		\git fetch Parent --depth 1 --no-tags
+		\git fetch Parent --no-tags
 
 		\find . -type d \( -iname node_modules -o -iname \.git \) -prune -false -o -iname src -type d -execdir bash -c "" \;
 
