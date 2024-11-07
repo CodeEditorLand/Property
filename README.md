@@ -148,9 +148,9 @@
 </picture>
 </a><br><a href="https://github.com/CodeEditorLand/Wind" target="_blank"><b>🌬️ Wind —</b></a></td></tr><tr>
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://playform.cloud/Dark/Image/GitHub/Land.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://playform.cloud/Image/GitHub/Land.svg">
-<img width="28" alt="" src="https://playform.cloud/Image/GitHub/Land.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://playform.ltd/Dark/Image/GitHub/Land.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://playform.ltd/Image/GitHub/Land.svg">
+<img width="28" alt="" src="https://playform.ltd/Image/GitHub/Land.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Land —
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Dependency" target="_blank">
@@ -263,9 +263,9 @@
 </picture>
 </a><br><a href="https://github.com/CodeEditorLand/DependencyLandDependency" target="_blank"><b>🖇️ Dependency — 🏞️ Land —</b></a></td></tr><tr>
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://playform.cloud/Glyph/Image/GitHub/Tauri.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://playform.cloud/Glyph/Image/GitHub/Tauri.svg">
-<img width="28" alt="" src="https://playform.cloud/Glyph/Image/GitHub/Tauri.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://playform.ltd/Glyph/Image/GitHub/Tauri.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://playform.ltd/Glyph/Image/GitHub/Tauri.svg">
+<img width="28" alt="" src="https://playform.ltd/Glyph/Image/GitHub/Tauri.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Tauri —
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyTauri" target="_blank">
@@ -342,9 +342,9 @@
 </picture>
 </a><br><a href="https://github.com/CodeEditorLand/DependencyTauriDependency" target="_blank"><b>🖇️ Dependency — 🤩 Tauri —</b></a></td></tr><tr>
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://playform.cloud/Image/GitHub/OXC.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://playform.cloud/Image/GitHub/OXC.svg">
-<img width="28" alt="" src="https://playform.cloud/Image/GitHub/OXC.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://playform.ltd/Image/GitHub/OXC.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://playform.ltd/Image/GitHub/OXC.svg">
+<img width="28" alt="" src="https://playform.ltd/Image/GitHub/OXC.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> OXC —
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyOXC" target="_blank">
@@ -421,9 +421,9 @@
 </picture>
 </a><br><a href="https://github.com/CodeEditorLand/DependencyOXCDependency" target="_blank"><b>🖇️ Dependency — OXC —</b></a></td></tr><tr>
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://playform.cloud/Image/GitHub/Biome.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://playform.cloud/Image/GitHub/Biome.svg">
-<img width="28" alt="" src="https://playform.cloud/Image/GitHub/Biome.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://playform.ltd/Image/GitHub/Biome.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://playform.ltd/Image/GitHub/Biome.svg">
+<img width="28" alt="" src="https://playform.ltd/Image/GitHub/Biome.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Biome —
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyBiome" target="_blank">
