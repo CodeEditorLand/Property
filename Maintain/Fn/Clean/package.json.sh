@@ -22,6 +22,7 @@ JSON=$(echo "$JSON" | \jq -S --tab "del(\
 	try .publishConfig catch null,\
 	try .publisher catch null,\
 	try .repository catch null,\
+	try .scripts.[\"precommit\"] catch null,\
 	try .scripts.[\"check:apply\"] catch null,\
 	try .scripts.[\"fmt:js\"] catch null,\
 	try .scripts.[\"format-check\"] catch null,\
