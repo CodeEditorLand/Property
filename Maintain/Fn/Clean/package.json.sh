@@ -215,6 +215,7 @@ Exclude=(
 	"@pptr/testrunner"
 	"@prettier/plugin-lua"
 	"@prettier/plugin-php"
+	"@prettier/plugin-ruby"
 	"@reduxjs/toolkit"
 	"@replit/codemirror-vscode-keymap"
 	"@rollup/plugin-babel"
