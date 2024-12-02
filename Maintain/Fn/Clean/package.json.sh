@@ -13,6 +13,7 @@ JSON=$(echo "$JSON" | \jq -S --tab "del(\
 	try .eslintConfig catch null,\
 	try .fix catch null,\
 	try .homepage catch null,\
+	try .husky catch null,\
 	try .keywords catch null,\
 	try .license catch null,\
 	try .packageManager catch null,\
@@ -22,7 +23,6 @@ JSON=$(echo "$JSON" | \jq -S --tab "del(\
 	try .publishConfig catch null,\
 	try .publisher catch null,\
 	try .repository catch null,\
-	try .scripts.[\"precommit\"] catch null,\
 	try .scripts.[\"check:apply\"] catch null,\
 	try .scripts.[\"fmt:js\"] catch null,\
 	try .scripts.[\"format-check\"] catch null,\
@@ -47,6 +47,7 @@ JSON=$(echo "$JSON" | \jq -S --tab "del(\
 	try .scripts.[\"lint:styles\"] catch null,\
 	try .scripts.[\"lint:tsc\"] catch null,\
 	try .scripts.[\"lint:types\"] catch null,\
+	try .scripts.[\"precommit\"] catch null,\
 	try .scripts.[\"prettier-fix\"] catch null,\
 	try .scripts.[\"test:eslint-rules\"] catch null,\
 	try .scripts.[\"test:fmt\"] catch null,\

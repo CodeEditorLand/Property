@@ -13,6 +13,7 @@ JSON=$(echo "$JSON" | \jq -S --tab "del(\
 	try .eslintConfig catch null,\
 	try .fix catch null,\
 	try .homepage catch null,\
+	try .husky catch null,\
 	try .keywords catch null,\
 	try .license catch null,\
 	try .packageManager catch null,\
