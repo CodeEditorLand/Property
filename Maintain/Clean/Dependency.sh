@@ -67,6 +67,7 @@ for Organization in "${Organization[@]}"; do
 					-o -iname CONTRIBUTING.txt \
 					-o -iname eslint.config.js \
 					-o -iname eslint.js \
+					-o -iname ISSUE_TEMPLATE \
 					-o -iname jsconfig.json \
 					-o -iname MAINTENANCE -type f \
 					-o -iname MAINTENANCE.md \
