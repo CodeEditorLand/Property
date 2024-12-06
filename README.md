@@ -207,61 +207,61 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Sublet/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Sublet/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/Land" target="_blank"><b>🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCargo" target="_blank">
+</a><br><a href="HTTPS://github.com/CodeEditorLand/Land" target="_blank"><b>🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandCargo?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandCargo?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandCargo?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftCargo?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftCargo?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftCargo?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCargo" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandCargo?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandCargo?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandCargo?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftCargo?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftCargo?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftCargo?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandCargo" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandCargo?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandCargo?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandCargo?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCargo" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftCargo?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftCargo?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftCargo?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandCargo/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandCargo/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandCargo/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftCargo/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftCargo/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftCargo/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandCargo" target="_blank"><b>📦 Cargo — 🏞️ Land —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandNPM" target="_blank">
+</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank"><b>📦 Cargo — 🏞️ Land —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandNPM?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandNPM?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandNPM?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftNPM?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftNPM?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftNPM?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandNPM" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandNPM?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandNPM?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandNPM?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftNPM?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftNPM?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftNPM?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandNPM" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandNPM?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandNPM?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandNPM?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandNPM" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftNPM?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftNPM?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftNPM?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandNPM/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandNPM/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandNPM/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftNPM/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftNPM/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftNPM/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandNPM" target="_blank"><b>📦 NPM — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDependency" target="_blank">
+</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank"><b>📦 NPM — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftDependency" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandDependency?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandDependency?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandDependency?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftDependency?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftDependency?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyMicrosoftDependency?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDependency" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftDependency" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandDependency?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandDependency?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandDependency?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftDependency?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftDependency?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyMicrosoftDependency?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandDependency" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandDependency?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandDependency?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandDependency?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDependency" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyMicrosoftDependency" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftDependency?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftDependency?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyMicrosoftDependency?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyMicrosoftDependency" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandDependency/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandDependency/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandDependency/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftDependency/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftDependency/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyMicrosoftDependency/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandDependency" target="_blank"><b>🖇️ Dependency — 🏞️ Land —</b></a></td></tr><tr>
+</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyMicrosoftDependency" target="_blank"><b>🖇️ Dependency — 🏞️ Land —</b></a></td></tr><tr>
 <td colspan="1"> <h3 align="center"> <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.LTD/Glyph/Image/GitHub/Tauri.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://PlayForm.LTD/Glyph/Image/GitHub/Tauri.svg">
