@@ -4,7 +4,7 @@ url = ssh://git@github.com/CodeEditorLand/DependencyBiome.git
 
 [submodule "Land"]
 path = Land
-url = ssh://git@github.com/CodeEditorLand/DependencyLand.git
+url = ssh://git@github.com/CodeEditorLand/DependencyMicrosoft.git
 
 [submodule "OXC"]
 path = OXC
