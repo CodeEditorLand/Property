@@ -40,11 +40,11 @@ for Organization in "${Organization[@]}"; do
 					mv fixtures/enhanced_resolve/test/fixtures/incorrect-package/pack2/package.json fixtures/enhanced_resolve/test/fixtures/incorrect-package/pack2/fixture.package.json
 				fi
 
-				# ignore ./Application/CodeEditorLand/Dependency/Land/Dependency/Codetour/package.json
-				# ignore ./Application/CodeEditorLand/Dependency/Land/Dependency/LandJsAtomGrammar/package.json
-				# ignore ./Application/CodeEditorLand/Dependency/Land/Dependency/LandJsDebugBrowsers/package.json
-				# ignore ./Application/CodeEditorLand/Dependency/Land/Dependency/LandJsonLanguageservice/package.json
-				# ignore ./Application/CodeEditorLand/Dependency/Land/Dependency/LandLanguageserverNode/tools/package.json
+				# ignore ./Application/CodeEditorLand/Dependency/Microsoft/Dependency/Codetour/package.json
+				# ignore ./Application/CodeEditorLand/Dependency/Microsoft/Dependency/LandJsAtomGrammar/package.json
+				# ignore ./Application/CodeEditorLand/Dependency/Microsoft/Dependency/LandJsDebugBrowsers/package.json
+				# ignore ./Application/CodeEditorLand/Dependency/Microsoft/Dependency/LandJsonLanguageservice/package.json
+				# ignore ./Application/CodeEditorLand/Dependency/Microsoft/Dependency/LandLanguageserverNode/tools/package.json
 				# ignore ./Application/CodeEditorLand/Dependency/Tauri/Dependency/Tauri/tooling/cli/node/npm/linux-arm-gnueabihf/package.json
 
 				\cd - || \exit
