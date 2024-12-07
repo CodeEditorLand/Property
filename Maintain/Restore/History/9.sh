@@ -72,7 +72,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" packages/@biomejs/js-api/LICENSE-MIT
 \git restore --source Parent/"$BranchParent" packages/@biomejs/js-api/ROME-LICENSE-MIT
 
-cd "$Current"/../../../Land/Cargo/Runtime || exit
+cd "$Current"/../../../Microsoft/Cargo/Runtime || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -83,7 +83,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" THIRD_PARTY_LICENSES
 
-cd "$Current"/../../../Land/Dependency/AzureStreamAnalyticsInLand || exit
+cd "$Current"/../../../Microsoft/Dependency/AzureStreamAnalyticsInLand || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -94,7 +94,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE-CODE
 
-cd "$Current"/../../../Land/Dependency/DevSkim || exit
+cd "$Current"/../../../Microsoft/Dependency/DevSkim || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -108,7 +108,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" DevSkim-VSCode-Plugin/License.txt
 \git restore --source Parent/"$BranchParent" LICENSE.txt
 
-cd "$Current"/../../../Land/Dependency/LandAsa || exit
+cd "$Current"/../../../Microsoft/Dependency/LandAsa || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -119,7 +119,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE-CODE
 
-cd "$Current"/../../../Land/Dependency/LandAzureAppService || exit
+cd "$Current"/../../../Microsoft/Dependency/LandAzureAppService || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -130,7 +130,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/Editor || exit
+cd "$Current"/../../../Microsoft/Dependency/Editor || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -146,7 +146,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" extensions/latex/markdown-latex-combined-license.txt
 \git restore --source Parent/"$BranchParent" extensions/vscode-colorize-tests/producticons/mit_license.txt
 
-cd "$Current"/../../../Land/Dependency/LandAzureContainerapps || exit
+cd "$Current"/../../../Microsoft/Dependency/LandAzureContainerapps || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -157,7 +157,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandAzureStorage || exit
+cd "$Current"/../../../Microsoft/Dependency/LandAzureStorage || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -168,7 +168,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandAzureStaticwebapps || exit
+cd "$Current"/../../../Microsoft/Dependency/LandAzureStaticwebapps || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -179,7 +179,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandAzureVirtualMachines || exit
+cd "$Current"/../../../Microsoft/Dependency/LandAzureVirtualMachines || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -190,7 +190,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandCopilotRelease || exit
+cd "$Current"/../../../Microsoft/Dependency/LandCopilotRelease || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -201,7 +201,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE-CODE
 
-cd "$Current"/../../../Land/Dependency/LandCSSLanguageService || exit
+cd "$Current"/../../../Microsoft/Dependency/LandCSSLanguageService || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -212,7 +212,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" src/beautify/beautify-license
 
-cd "$Current"/../../../Land/Dependency/LandCPPTools || exit
+cd "$Current"/../../../Microsoft/Dependency/LandCPPTools || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -228,7 +228,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" RuntimeLicenses/vsdbg-LICENSE.txt
 \git restore --source Parent/"$BranchParent" Themes/LICENSE.txt
 
-cd "$Current"/../../../Land/Dependency/LandCustomData || exit
+cd "$Current"/../../../Microsoft/Dependency/LandCustomData || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -239,7 +239,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" web-data/LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandDocker || exit
+cd "$Current"/../../../Microsoft/Dependency/LandDocker || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -250,7 +250,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandDocs || exit
+cd "$Current"/../../../Microsoft/Dependency/LandDocs || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -261,7 +261,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandHTMLLanguageService || exit
+cd "$Current"/../../../Microsoft/Dependency/LandHTMLLanguageService || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -272,7 +272,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" src/beautify/beautify-license
 
-cd "$Current"/../../../Land/Dependency/LandIcons || exit
+cd "$Current"/../../../Microsoft/Dependency/LandIcons || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -283,7 +283,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE-CODE
 
-cd "$Current"/../../../Land/Dependency/LandJSDebug || exit
+cd "$Current"/../../../Microsoft/Dependency/LandJSDebug || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -305,7 +305,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" testWorkspace/nodePathProvider/node-module/node_modules/.bin/node.exe
 \git restore --source Parent/"$BranchParent" testWorkspace/node_modules/browser-pack/_prelude.js
 
-cd "$Current"/../../../Land/Dependency/LandJupyter || exit
+cd "$Current"/../../../Microsoft/Dependency/LandJupyter || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -316,7 +316,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" api/LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandLanguageServerNode || exit
+cd "$Current"/../../../Microsoft/Dependency/LandLanguageServerNode || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -334,7 +334,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" tsconfig-gen/LICENSE.md
 \git restore --source Parent/"$BranchParent" types/License.txt
 
-cd "$Current"/../../../Land/Dependency/LandMssql || exit
+cd "$Current"/../../../Microsoft/Dependency/LandMssql || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -345,7 +345,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE.txt
 
-cd "$Current"/../../../Land/Dependency/LandPowerquerySdk || exit
+cd "$Current"/../../../Microsoft/Dependency/LandPowerquerySdk || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -356,7 +356,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" resources/license-header.js
 
-cd "$Current"/../../../Land/Dependency/LandPython || exit
+cd "$Current"/../../../Microsoft/Dependency/LandPython || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -368,7 +368,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" build/license-header.txt
 \git restore --source Parent/"$BranchParent" pythonExtensionApi/LICENSE.md
 
-cd "$Current"/../../../Land/Dependency/LandRemoteRelease || exit
+cd "$Current"/../../../Microsoft/Dependency/LandRemoteRelease || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -380,7 +380,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" LICENSE-extensions
 \git restore --source Parent/"$BranchParent" LICENSE-repository
 
-cd "$Current"/../../../Land/Dependency/LandRemoteRepositoriesGitHub || exit
+cd "$Current"/../../../Microsoft/Dependency/LandRemoteRepositoriesGitHub || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -391,7 +391,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE-CODE
 
-cd "$Current"/../../../Land/Dependency/LandRussh || exit
+cd "$Current"/../../../Microsoft/Dependency/LandRussh || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -402,7 +402,7 @@ git fetch --all
 
 \git restore --source Parent/"$BranchParent" LICENSE-2.0.txt
 
-cd "$Current"/../../../Land/Dependency/LandToolsForAI || exit
+cd "$Current"/../../../Microsoft/Dependency/LandToolsForAI || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh
@@ -414,7 +414,7 @@ git fetch --all
 \git restore --source Parent/"$BranchParent" LICENSE-CODE
 \git restore --source Parent/"$BranchParent" archive/LICENSE-CODE
 
-cd "$Current"/../../../Land/Dependency/LandWiki || exit
+cd "$Current"/../../../Microsoft/Dependency/LandWiki || exit
 
 # shellcheck disable=SC1091
 \source "$Current"/../../Fn/Cache.sh

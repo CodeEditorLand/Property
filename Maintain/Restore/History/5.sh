@@ -5,7 +5,7 @@
 Current=$(\cd -- "$(\dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && \pwd)
 
 File=(
-	"$Current/../../../Land/Dependency/LandPullRequestGitHub/Source/github/conflictResolutionCoordinator.ts"
+	"$Current/../../../Microsoft/Dependency/LandPullRequestGitHub/Source/github/conflictResolutionCoordinator.ts"
 	"$Current/../../../SWC/Dependency/SWC/crates/swc_ecma_parser/Source/lexer/tests.rs"
 	"$Current/../../../Tauri/Dependency/PluginsWorkspace/examples/api/package.json"
 	"$Current/../../../Tauri/Dependency/PluginsWorkspace/plugins/barcode-scanner/package.json"
