@@ -21,8 +21,9 @@ RenameOrganizational=(
 	"@rolldown"
 	"@rollup"
 	"@swc"
-	"@tauri"
 	"@tauri-apps"
+	"@tauri"
+	"@vite"
 	"@vitejs"
 	"@vscode"
 )
@@ -37,6 +38,7 @@ RenamePrefix=(
 	"swc-"
 	"tauri-"
 	"tauri-apps-"
+	"vite-"
 	"vitejs-"
 	"vscode-"
 )
@@ -51,6 +53,7 @@ RenamePrefixOrganizational=(
 	"@swc-"
 	"@tauri-"
 	"@tauri-apps-"
+	"@vite-"
 	"@vitejs-"
 	"@vscode-"
 )
@@ -76,12 +79,12 @@ Process() {
 
 	if ! Processed=$(echo "$Temporary" | jq -e -S --tab '
         try (
-            .name |= if test("'"$PatternRenameOrganizational"'") then
-                sub("'"$PatternRenameOrganizational"'"; "@codeeditorland")
-            elif test("'"$PatternRenamePrefix"'") then
-                sub("'"$PatternRenamePrefix"'"; "@codeeditorland/")
-            elif test("'"$_PatternRenamePrefix"'") then
-                sub("'"$_PatternRenamePrefix"'"; "@codeeditorland/")
+            .name |= if test("^'"$PatternRenameOrganizational"'") then
+                sub("^'"$PatternRenameOrganizational"'"; "@codeeditorland")
+            elif test("^'"$PatternRenamePrefix"'") then
+                sub("^'"$PatternRenamePrefix"'"; "@codeeditorland/")
+            elif test("^'"$_PatternRenamePrefix"'") then
+                sub("^'"$_PatternRenamePrefix"'"; "@codeeditorland/")
             else .
             end
         ) catch . ' 2>/dev/null); then
@@ -96,12 +99,12 @@ Process() {
             .dependencies |= if . == null then
                 {}
             else
-                with_entries(.key |= if test("'"$PatternRenameOrganizational"'") then
-                    sub("'"$PatternRenameOrganizational"'"; "@codeeditorland")
-                elif test("'"$PatternRenamePrefix"'") then
-                    sub("'"$PatternRenamePrefix"'"; "@codeeditorland/")
-                elif test("'"$_PatternRenamePrefix"'") then
-                    sub("'"$_PatternRenamePrefix"'"; "@codeeditorland/")
+                with_entries(.key |= if test("^'"$PatternRenameOrganizational"'") then
+                    sub("^'"$PatternRenameOrganizational"'"; "@codeeditorland")
+                elif test("^'"$PatternRenamePrefix"'") then
+                    sub("^'"$PatternRenamePrefix"'"; "@codeeditorland/")
+                elif test("^'"$_PatternRenamePrefix"'") then
+                    sub("^'"$_PatternRenamePrefix"'"; "@codeeditorland/")
                 else .
                 end)
             end
@@ -117,12 +120,12 @@ Process() {
             .devDependencies |= if . == null then
                 {}
             else
-                with_entries(.key |= if test("'"$PatternRenameOrganizational"'") then
-                    sub("'"$PatternRenameOrganizational"'"; "@codeeditorland")
-                elif test("'"$PatternRenamePrefix"'") then
-                    sub("'"$PatternRenamePrefix"'"; "@codeeditorland/")
-                elif test("'"$_PatternRenamePrefix"'") then
-                    sub("'"$_PatternRenamePrefix"'"; "@codeeditorland/")
+                with_entries(.key |= if test("^'"$PatternRenameOrganizational"'") then
+                    sub("^'"$PatternRenameOrganizational"'"; "@codeeditorland")
+                elif test("^'"$PatternRenamePrefix"'") then
+                    sub("^'"$PatternRenamePrefix"'"; "@codeeditorland/")
+                elif test("^'"$_PatternRenamePrefix"'") then
+                    sub("^'"$_PatternRenamePrefix"'"; "@codeeditorland/")
                 else .
                 end)
             end

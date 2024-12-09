@@ -44,3 +44,5 @@ Slug="$Owner/$Name"
 }" package.json >|package.json.tmp
 
 \mv package.json.tmp package.json
+
+sort-package-json
