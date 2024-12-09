@@ -69,6 +69,11 @@ for Dependency in "${Dependency[@]}"; do
 			"$SubDependency" \
 			"$Dependency"
 
+		"$Current"/Rename/Detail.sh \
+			"$Organization" \
+			"$SubDependency" \
+			"$Dependency"
+
 		"$Current"/Append/Detail.sh \
 			"$Organization" \
 			"$SubDependency" \

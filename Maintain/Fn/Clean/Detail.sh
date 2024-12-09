@@ -758,3 +758,5 @@ Key "dependencies"
 Key "devDependencies"
 Key "peerDependencies"
 Key "optionalDependencies"
+
+sort-package-json
