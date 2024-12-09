@@ -9,7 +9,7 @@ Read() {
 	if [ -f "package.json" ]; then
 		JSON=$(<package.json)
 	else
-		Error "package.json not found"
+		Error "Cannot package.json"
 	fi
 }
 
@@ -17,9 +17,11 @@ RenameOrganizational=(
 	"@azure"
 	"@biomejs"
 	"@microsoft"
+	"@oxc"
 	"@rolldown"
 	"@rollup"
 	"@swc"
+	"@tauri"
 	"@tauri-apps"
 	"@vitejs"
 	"@vscode"
@@ -29,21 +31,25 @@ RenamePrefix=(
 	"azure-"
 	"biomejs-"
 	"microsoft-"
+	"oxc-"
 	"rolldown-"
 	"rollup-"
 	"swc-"
+	"tauri-"
 	"tauri-apps-"
 	"vitejs-"
 	"vscode-"
 )
 
-_RenamePrefix=(
+RenamePrefixOrganizational=(
 	"@azure-"
 	"@biomejs-"
 	"@microsoft-"
+	"@oxc-"
 	"@rolldown-"
 	"@rollup-"
 	"@swc-"
+	"@tauri-"
 	"@tauri-apps-"
 	"@vitejs-"
 	"@vscode-"
@@ -61,7 +67,7 @@ PatternRenamePrefix=$(
 
 _PatternRenamePrefix=$(
 	IFS="|"
-	echo "(${_RenamePrefix[*]})"
+	echo "(${RenamePrefixOrganizational[*]})"
 )
 
 Process() {
@@ -79,7 +85,8 @@ Process() {
             else .
             end
         ) catch . ' 2>/dev/null); then
-		Error "Failed to process package name"
+
+		Error "Cannot name"
 	fi
 
 	Temporary="$Processed"
@@ -99,7 +106,8 @@ Process() {
                 end)
             end
         ) catch . ' 2>/dev/null); then
-		Error "Failed to process dependencies"
+
+		Error "Cannot dependencies"
 	fi
 
 	Temporary="$Processed"
@@ -119,10 +127,11 @@ Process() {
                 end)
             end
         ) catch . ' 2>/dev/null); then
-		Error "Failed to process devDependencies"
+
+		Error "Cannot devDependencies"
 	fi
 
-	echo "$Processed" >|package.json || Error "Failed to write to package.json"
+	echo "$Processed" >|package.json || Error "Cannot package.json"
 }
 
 Fn() {
@@ -131,4 +140,4 @@ Fn() {
 	sort-package-json
 }
 
-Fn || Error "Script execution failed"
+Fn || Error "Cannot Rename/package.json.sh"
