@@ -40,3 +40,19 @@ $(?![\r\n])
 ```sh
 **/*.{js,ts,jsx,tsx,cjs,mjs,cts,mts,rs,yaml,toml,json,md}
 ```
+
+# Rust replace revision
+
+Use:
+
+```sh
+^(?!version|edition|rust-version|resolver)(\w+) = "((\d)(.*))"
+```
+
+Replace:
+
+```sh
+$1 = { version = "$2" }
+```
+
+# TODO: Replace (; + indent + any word) with (; + new line + indent + any word)
