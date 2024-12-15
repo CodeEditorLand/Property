@@ -9,6 +9,7 @@ Dependency=(
 	"Rolldown"
 	"SWC"
 	"Tauri"
+	"Vercel"
 )
 
 for Dependency in "${Dependency[@]}"; do
