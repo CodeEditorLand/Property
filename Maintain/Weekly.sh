@@ -4,11 +4,12 @@ Current=$(\cd -- "$(\dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && \pwd)
 
 Dependency=(
 	"Biome"
-	"Land"
+	"Microsoft"
 	"OXC"
 	"Rolldown"
 	"SWC"
 	"Tauri"
+	"Vercel"
 )
 
 for Dependency in "${Dependency[@]}"; do
@@ -65,6 +66,11 @@ for Dependency in "${Dependency[@]}"; do
 			"$Dependency"
 
 		"$Current"/Clean/Detail.sh \
+			"$Organization" \
+			"$SubDependency" \
+			"$Dependency"
+
+		"$Current"/Rename/Detail.sh \
 			"$Organization" \
 			"$SubDependency" \
 			"$Dependency"

@@ -1,18 +1,23 @@
 [submodule "Biome"]
-	path = Biome
-	url = ssh://git@github.com/CodeEditorLand/DependencyBiome.git
+path = Biome
+url = ssh://git@github.com/CodeEditorLand/DependencyBiome.git
+
 [submodule "Microsoft"]
-	path = Microsoft
-	url = ssh://git@github.com/CodeEditorLand/DependencyMicrosoft.git
+path = Microsoft
+url = ssh://git@github.com/CodeEditorLand/DependencyMicrosoft.git
+
 [submodule "OXC"]
-	path = OXC
-	url = ssh://git@github.com/CodeEditorLand/DependencyOXC.git
+path = OXC
+url = ssh://git@github.com/CodeEditorLand/DependencyOXC.git
+
 [submodule "Rolldown"]
-	path = Rolldown
-	url = ssh://git@github.com/CodeEditorLand/DependencyRolldown.git
+path = Rolldown
+url = ssh://git@github.com/CodeEditorLand/DependencyRolldown.git
+
 [submodule "SWC"]
-	path = SWC
-	url = ssh://git@github.com/CodeEditorLand/DependencySWC.git
+path = SWC
+url = ssh://git@github.com/CodeEditorLand/DependencySWC.git
+
 [submodule "Tauri"]
-	path = Tauri
-	url = ssh://git@github.com/CodeEditorLand/DependencyTauri.git
+path = Tauri
+url = ssh://git@github.com/CodeEditorLand/DependencyTauri.git

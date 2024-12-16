@@ -6,7 +6,7 @@
 	"CodeEditorLand/Cargo",
 	"CodeEditorLand/CargoDocument",
 	"CodeEditorLand/CargoLand",
-	"CodeEditorLand/CargoMaintain",
+	"CodeEditorLand/Maintain",
 	"CodeEditorLand/CargoRuntime",
 	"CodeEditorLand/CodeEditorLand",
 	"CodeEditorLand/Commonality",
