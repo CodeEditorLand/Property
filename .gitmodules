@@ -21,3 +21,7 @@ url = ssh://git@github.com/CodeEditorLand/DependencySWC.git
 [submodule "Tauri"]
 path = Tauri
 url = ssh://git@github.com/CodeEditorLand/DependencyTauri.git
+
+[submodule "Vercel"]
+path = Vercel
+url = ssh://git@github.com/CodeEditorLand/DependencyVercel.git
